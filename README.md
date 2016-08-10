@@ -1,2 +1,2 @@
-# tos-watchdog
+# tos-watchdogs
 Various watchdog components for TinyOS motes.
