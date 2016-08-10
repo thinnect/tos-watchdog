@@ -1,6 +1,8 @@
 /**
  * Component for periodically reseting the internal watchdog.
+ *
  * @author Raido Pahtma
+ * @license MIT
 */
 #include <avr/wdt.h>
 generic module TimerWatchdogP(uint32_t g_period_ms) {

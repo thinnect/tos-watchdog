@@ -1,6 +1,8 @@
 /**
  * Component for periodically reseting an external watchdog module attached to the UART TX pin.
+ *
  * @author Raido Pahtma
+ * @license MIT
 */
 configuration PrintfTimerWatchdogC {
 }

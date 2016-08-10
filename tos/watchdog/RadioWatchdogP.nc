@@ -1,6 +1,8 @@
 /**
  * Reset watchdog based on radio start count.
+ *
  * @author Raido Pahtma
+ * @license MIT
  */
 #include <avr/wdt.h>
 module RadioWatchdogP {

@@ -1,6 +1,8 @@
 /**
  * Component for periodically reseting the internal watchdog.
+ *
  * @author Raido Pahtma
+ * @license MIT
 */
 generic configuration TimerWatchdogC(uint32_t g_period_ms) {
 }
